@@ -43,5 +43,10 @@ Before running the application, ensure you have:
 
 ---
 
+📂 Latest JSON Data (Updated: 02.02.2025)
+
+🔗 You can find the latest scraped JSON files here:
+👉 Scraped JSON Files
+
 🔗 **Get Started Now:** [ScrapeLinks Repository](https://github.com/BatuhanUlukan/ScrapeLinks) 🚀
 
