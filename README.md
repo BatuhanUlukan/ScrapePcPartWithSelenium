@@ -46,7 +46,7 @@ Before running the application, ensure you have:
 📂 Latest JSON Data (Updated: 02.02.2025)
 
 🔗 You can find the latest scraped JSON files here:
-👉 Scraped JSON Files
+👉 Scraped JSON Files [ScrapedProducts Jsons]([https://github.com/BatuhanUlukan/ScrapeLinks](https://github.com/BatuhanUlukan/ScrapePcPartWithSelenium/tree/master/ConsoleApp1/DetailJsons)) 
 
 🔗 **Get Started Now:** [ScrapeLinks Repository](https://github.com/BatuhanUlukan/ScrapeLinks) 🚀
 
