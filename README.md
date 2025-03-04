@@ -35,7 +35,7 @@ Before running the application, ensure you have:
 
 ## 🚀 How to Run
 1. **Download or Clone the Scraper**  
-   You can get the scraper from [this repository](https://github.com/BatuhanUlukan/ScrapeLinks).  
+   You can get the scraper from [this repository](https://github.com/BatuhanUlukan/ScrapeLinks), which is a console application that extracts links from a `.txt` file.  
 2. **Run the Console Application**  
    Execute the scraper to extract links from the `.txt` file and gather product details from **PCPartPicker**.  
 3. **View and Save the Data**  
